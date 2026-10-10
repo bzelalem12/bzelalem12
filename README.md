@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bethel 👋👱🏾‍♀️
 
-<!--
-**bzelalem12/bzelalem12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help non-technical teams fall in love with AI ✨ I'm an AI Enablement Program Manager focused on making AI simple, practical, and genuinely useful — no engineering degree required.
 
-Here are some ideas to get you started:
+## What I'm working on 🌸
+- Building practical AI workflows for non-technical teams
+- Experimenting with small tools that make everyday work a little easier
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Previously
+- AI Enablement — scaling adoption programs at Microsoft & Meta
+- Community — growing engaged communities across tech and nonprofit spaces
+- Organizational Development — leading change & learning initiatives (NeuroLeadership Institute, MSOD)
+
+## Find me 💌
+- LinkedIn: [linkedin.com/in/bzelalem](https://www.linkedin.com/in/bzelalem/)
